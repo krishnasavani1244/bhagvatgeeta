@@ -1,6 +1,8 @@
 # bhagvatgita
 
 A new Flutter project.
+<img align="left" src="https://github.com/krishnasavani1244/bhagvatgeeta/assets/131374449/04038b8c-1161-4a84-a088-0314298bd1ee" width="220px">
+
 
 ## Getting Started
 
@@ -14,3 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230518_164649](https://github.com/krishnasavani1244/bhagvatgeeta/assets/131374449/04038b8c-1161-4a84-a088-0314298bd1ee)
