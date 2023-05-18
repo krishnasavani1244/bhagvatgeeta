@@ -2,8 +2,8 @@
 
 A new Flutter project.
 <img align="left" src="https://github.com/krishnasavani1244/bhagvatgeeta/assets/131374449/04038b8c-1161-4a84-a088-0314298bd1ee" width="220px">
-<img align="left" src"https://github.com/krishnasavani1244/bhagvatgeeta/assets/131374449/7cf79e4f-48d4-4fc4-aab1-1cdd67a8086c" width="220px">
-<img  src"https://github.com/krishnasavani1244/bhagvatgeeta/assets/131374449/a4cd11d0-322b-4421-b50e-a66244a80fe1" width="220px">
+<img align="left" src="https://github.com/krishnasavani1244/bhagvatgeeta/assets/131374449/7cf79e4f-48d4-4fc4-aab1-1cdd67a8086c" width="220px">
+<img  src="https://github.com/krishnasavani1244/bhagvatgeeta/assets/131374449/a4cd11d0-322b-4421-b50e-a66244a80fe1" width="220px">
 
 <img align="left" src"" width="220px">
 <img align="left" src"" width="220px">
